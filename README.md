@@ -1,4 +1,4 @@
-![Brad's Audit](brads-audit-banner.png)
+![Brad's Audit](brads-audit-banner-color.png)
 
 20 years in banking and nonprofit development. Now I audit the machinery of money, power and AI through a covenantal lens. Occasionally funny.
 
